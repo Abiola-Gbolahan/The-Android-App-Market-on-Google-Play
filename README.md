@@ -1,2 +1,2 @@
 # The-Android-App-Market-on-Google-Play
-The project tends to improve skills in the follwing aspect: data cleaning, data visualization, data manipulation, using of built_in functions not only that but also improve sentiment analysis skill 
+Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. the notebook comprised a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Insights to devise strategies to drive growth and retention are looked into through the datasets.
